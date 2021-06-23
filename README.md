@@ -1,2 +1,3 @@
 # hello-word
-it´s a hello world repositori
+it´s a hello world repository
+this is a change
